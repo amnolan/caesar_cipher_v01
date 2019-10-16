@@ -26,7 +26,7 @@ For instance:
     Encrypted message: Kyv hlztb sifne wfo, zj svxxze' wfi svxxze jkizgj
     
 Great, now how does my partner decrypt this highly encrypted message? With maths of course!
-What is 26 - 17 ? That's right it's 11, I mean 8, oops 9!
+What is 26 - 17 ? That's right it's 9! So input that to reverse the encryption...
 
     $ ./caesar_cipher 
     Enter message to be encrypted: Kyv hlztb sifne wfo, zj svxxze' wfi svxxze jkizgj
